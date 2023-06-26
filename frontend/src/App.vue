@@ -2,7 +2,6 @@
 	<div id="app">
 		<h1>Versão Inicial</h1>
 		<p>Test</p>
-		<p>Test</p>
 	</div>
 </template>
 
