@@ -65,7 +65,7 @@ export default {
     }
 
     .auth-modal{
-        border-radius: 10px;
+        border-radius: 15px;
         background-color: #FFF;
         width: 350px;
         padding: 35px;
